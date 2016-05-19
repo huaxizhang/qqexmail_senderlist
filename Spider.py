@@ -1,11 +1,4 @@
-# encoding: utf-8
-#import pickle
-#from scrapy.linkextractors.sgml import SgmlLinkExtractor
-#from scrapy.loader import ItemLoader
-#from scrapy.spiders import CrawlSpider, Request
-#from selenium.webdriver.common.by import By
-#from scrapy.linkextractors import LinkExtractor
-#import contextlib
+#encoding: utf-8
 import selenium.webdriver as webdriver
 import selenium.webdriver.support.ui as ui
 import time
